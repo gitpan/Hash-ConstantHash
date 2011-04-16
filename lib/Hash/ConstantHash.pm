@@ -15,7 +15,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -172,7 +172,7 @@ You can also look for information at:
 
 =over 4
 
-=item * GIT repository with latest stuff
+=item * GIT repository with the latest stuff
 
 L<git://github.com/luben/Hash-ConstantHash.git>
 
